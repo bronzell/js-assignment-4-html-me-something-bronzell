@@ -19,10 +19,6 @@ img {
 	max-width: 100%;
 }
 
-div {
-	padding: 2px;
-}
-
 header {
 	text-align: right;
 }
@@ -33,13 +29,13 @@ footer {
 	color: rgb(8, 8, 8);
 }
 
-h1 {
+header {
 	position: absolute;
 	top: 20px;
 	margin-left: 100px;
 }
 
-.head {
+h2 {
 	margin: 5px;
 	display: inline;
 }
@@ -50,15 +46,11 @@ h1 {
 	display: inline-block;
 }
 
-.categoryImg {
+Img {
 	max-width: 30%;
 }
 
-.categoryImg:hover {
+Img:hover {
     max-width: 32%;
 	border: 2px solid;
-}
-
-#footlink {
-	color: white;
 }
