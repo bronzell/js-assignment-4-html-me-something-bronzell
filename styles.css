@@ -1,1 +1,64 @@
 /* Write your CSS here! */
+
+a:link {
+    color: rgb(247, 243, 8);
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: orchid;
+}
+
+img {
+	max-width: 100%;
+}
+
+div {
+	padding: 2px;
+}
+
+header {
+	text-align: right;
+}
+
+footer {
+	text-align: center;
+	background-color: red;
+	color: rgb(8, 8, 8);
+}
+
+h1 {
+	position: absolute;
+	top: 20px;
+	margin-left: 100px;
+}
+
+.head {
+	margin: 5px;
+	display: inline;
+}
+
+.content {
+	max-width: 30%;
+	text-align: center;
+	display: inline-block;
+}
+
+.categoryImg {
+	max-width: 30%;
+}
+
+.categoryImg:hover {
+    max-width: 32%;
+	border: 2px solid;
+}
+
+#footlink {
+	color: white;
+}
