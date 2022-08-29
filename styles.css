@@ -1,7 +1,7 @@
 /* Write your CSS here! */
 
-a:link {
-    color: rgb(247, 243, 8);
+#Name {
+    color: red (247, 243, 8);
 }
 
 /* mouse over link */
@@ -20,6 +20,7 @@ img {
 }
 
 header {
+    color:blueviolet;
 	text-align: right;
 }
 
@@ -46,11 +47,3 @@ h2 {
 	display: inline-block;
 }
 
-Img {
-	max-width: 30%;
-}
-
-Img:hover {
-    max-width: 32%;
-	border: 2px solid;
-}
