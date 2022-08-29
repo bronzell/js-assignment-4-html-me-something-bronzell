@@ -3,18 +3,6 @@
 #Name {
     color: red (247, 243, 8);
 }
-
-/* mouse over link */
-a:hover {
-    color: red;
-	text-decoration: none;
-}
-
-/* selected link */
-a:active {
-    color: orchid;
-}
-
 img {
 	max-width: 100%;
 }
@@ -30,20 +18,15 @@ footer {
 	color: rgb(8, 8, 8);
 }
 
-header {
+h2 {
 	position: absolute;
 	top: 20px;
 	margin-left: 100px;
 }
 
-h2 {
+h3 {
 	margin: 5px;
 	display: inline;
 }
 
-.content {
-	max-width: 30%;
-	text-align: center;
-	display: inline-block;
-}
 
