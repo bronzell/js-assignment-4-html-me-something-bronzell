@@ -4,3 +4,23 @@ body {
 	margin: 8px;
 	display: block;
 }
+
+p{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#myOP{
+	color: antiquewhite;
+	text-shadow: 2px 2px black;
+	text-decoration: underline;
+}
+
+img{
+	width: 400px;
+	height: 200px;
+	display: block;
+	border-style: double;
+	border-color: blue;
+}
+
